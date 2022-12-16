@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)

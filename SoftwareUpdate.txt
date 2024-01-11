@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Fix PNNX ubuntu -> linux bug (#7050)
